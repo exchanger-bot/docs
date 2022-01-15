@@ -45,6 +45,8 @@
 
 - **[PUT]** `/api/v1/admin/message/:id` — Обновить сообщение для бота.
 
+***Header***
+
 ```json
 {
     "Authorization": "Bearer <token>"
