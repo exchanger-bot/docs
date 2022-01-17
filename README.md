@@ -1,6 +1,6 @@
 # TG Exchanger Server
 
-## Table of Contents  
+## API V1 Documentation
 - [Bot Documentation](https://github.com/exchanger-bot/docs/tree/main/bot)
     - [User](https://github.com/exchanger-bot/docs/blob/main/bot/users/users_api.md#user-api-for-bot)
         - [Registration](https://github.com/exchanger-bot/docs/blob/main/bot/users/users_api.md#registration)       
