@@ -27,6 +27,7 @@
         - [Delete notification](https://github.com/exchanger-bot/docs/blob/main/admin/notifications/notifications_api.md#delete)
         - [Get selection of notification](https://github.com/exchanger-bot/docs/blob/main/admin/notifications/notifications_api.md#selection)
         - [Count new notifications](https://github.com/exchanger-bot/docs/blob/main/admin/notifications/notifications_api.md#count-new-notifications)
+        - 
     - [Logs](https://github.com/exchanger-bot/docs/blob/main/admin/logs)
         - [Create log record](https://github.com/exchanger-bot/docs/blob/main/admin/logs/logs_api.md#create)
         - [Get selection of log records](https://github.com/exchanger-bot/docs/blob/main/admin/logs/logs_api.md#selection)
